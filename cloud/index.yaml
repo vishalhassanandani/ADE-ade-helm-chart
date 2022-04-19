@@ -3,7 +3,17 @@ entries:
   platform:
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.005384117Z"
+    created: "2022-04-19T08:13:23.386488592Z"
+    description: A Helm chart for Kubernetes
+    digest: 867f4bb9b6358f85cb1bb8dc562a4c1a8b21a9faa28a6c89c2cd6f43b021cf17
+    name: platform
+    type: application
+    urls:
+    - platform-53.tgz
+    version: "53"
+  - apiVersion: v2
+    appVersion: 21.30.01
+    created: "2022-04-19T08:13:23.385827865Z"
     description: A Helm chart for Kubernetes
     digest: af4e5d9269b29d5304dd73d9a0f13ab1db7ee86dae10f554b9400501ea110128
     name: platform
@@ -13,7 +23,7 @@ entries:
     version: "52"
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.004718788Z"
+    created: "2022-04-19T08:13:23.385125971Z"
     description: A Helm chart for Kubernetes
     digest: fdcb2c3340c16575a701dcc8f311f60bc6581626b26bccd3e316fc946f63ffe9
     name: platform
@@ -23,7 +33,7 @@ entries:
     version: "47"
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.004165175Z"
+    created: "2022-04-19T08:13:23.384453094Z"
     description: A Helm chart for Kubernetes
     digest: cd57c06a8e72a92f53133e85b798613bef5191cb98f243576570c71b3f90ed8b
     name: platform
@@ -33,7 +43,7 @@ entries:
     version: "45"
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.003562346Z"
+    created: "2022-04-19T08:13:23.383788288Z"
     description: A Helm chart for Kubernetes
     digest: f3a238ad1c7358b1376da2db89f6ed7f452fa7220e293572b2668097dad7735d
     name: platform
@@ -43,7 +53,7 @@ entries:
     version: "44"
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.002902718Z"
+    created: "2022-04-19T08:13:23.378539315Z"
     description: A Helm chart for Kubernetes
     digest: cce2ca129c9f1385c5e76a104a1f88001b4c8c7680115536b28f5ba0e27e4e89
     name: platform
@@ -53,7 +63,7 @@ entries:
     version: "41"
   - apiVersion: v2
     appVersion: 21.30.01
-    created: "2022-04-19T07:51:36.002296398Z"
+    created: "2022-04-19T08:13:23.377743899Z"
     description: A Helm chart for Kubernetes
     digest: 31dae5ed0066b497abb40a8ba307ed9eff324682777457cc511b0e6e2bf3a657
     name: platform
@@ -61,4 +71,4 @@ entries:
     urls:
     - platform-40.tgz
     version: "40"
-generated: "2022-04-19T07:51:36.001440477Z"
+generated: "2022-04-19T08:13:23.376169005Z"
